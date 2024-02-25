@@ -12,4 +12,4 @@
 
 <h2>Image credits:</h2>
 
-<p>"Photo by Suzy Hazelwood from Pexels: https://www.pexels.com/photo/blue-and-red-galaxy-artwork-1629236/</p>
+<p>Photo by Suzy Hazelwood from Pexels: https://www.pexels.com/photo/blue-and-red-galaxy-artwork-1629236/</p>
