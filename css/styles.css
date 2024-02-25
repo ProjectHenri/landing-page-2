@@ -74,16 +74,21 @@ li, .hero-left-content{
 
 }
 
-.hero-left-content button{
+button{
 
     padding: 8px 30px;
-    background-color: #3882f6;
     color:#ffffff;
     border-radius: 6px;
     font-size: 16px;
     font-weight: 700;
     letter-spacing: 0.5px;
     cursor: pointer;
+
+}
+
+.hero-left-content button{
+
+    background-color: #3882f6;
 
 }
 
@@ -161,5 +166,39 @@ li, .hero-left-content{
     font-size: 16px;
     font-weight: 700;
     align-self: flex-end;
+
+}
+
+.cta{
+
+    background-color: #3882f6;
+    max-width: 800px;
+    margin: 100px auto;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    padding:60px 0px;
+    align-items: center;
+
+}
+
+.cta button{
+
+    background-color: transparent;
+    border:2px solid #ffffff;
+
+}
+
+.cta-text{
+
+    color:#ffffff;
+
+}
+
+.cta-text p{
+
+    margin-top: 8px;
+    color:#e5e7eb;
 
 }
