@@ -1,5 +1,5 @@
 <h1>Project: Landing Page</h1>
-A simple landing page made with HTML and CSS that focuses on using Flexbox for designing the layout
+A simple landing page made with HTML and CSS that focuses on using Flexbox for designing the layout. This project was done as a part of TheOdinProject's curriculum.
 
 <h2>Goal of the project:</h2>
 
